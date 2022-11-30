@@ -1,7 +1,7 @@
 ## Oioi! EU sou o Igor Teodoro! 👋
 
 - 🔭 A procura de estágio!
-- 🌱 Atualmente estudando C#, MS SQL Server, Java, JavaScript, CSS, HTML and work eneviroment
+- 🌱 Atualmente estudando C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
 - 📫 Contate-me pelo email: igor.teodoro@outlook.com.br
 - 😄 Pronouns: Any
 
