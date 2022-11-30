@@ -18,7 +18,7 @@
   <img align="center" alt="Igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Super Mario 64 Sleeping" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/JauntyLeanBluejay-max-1mb.gif">
   <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Igor-aspnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asp-net/asp-net.svg">
+  <img align="center" alt="Igor-aspnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet.svg">
 </div>
   
   ##
