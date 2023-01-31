@@ -1,9 +1,5 @@
-## Oioi! EU sou o Igor Teodoro! 👋
 
-- 🔭 A procura de estágio!
-- 🌱 Atualmente estudando C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
-- 📫 Contate-me pelo email: Carmelium@protonmaiul.com
-- 😄 Pronouns: Any
+- 🌱  C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
 
 <div align="center">
   <a href="https://github.com/igorteodoro">
