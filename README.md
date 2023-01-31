@@ -2,7 +2,7 @@
 
 - 🔭 A procura de estágio!
 - 🌱 Atualmente estudando C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
-- 📫 Contate-me pelo email: igor.teodoro@outlook.com.br
+- 📫 Contate-me pelo email: Carmelium@protonmaiul.com
 - 😄 Pronouns: Any
 
 <div align="center">
@@ -25,7 +25,6 @@
   <div> 
   <a href="https://www.youtube.com/channel/UCSpUOxZd03ceueCbV_lMLUw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/oigoritto" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:Carmelium@protonmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
