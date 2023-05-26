@@ -7,6 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=dark"/>
 </div>
+  
+<div align=right>  
+  <a href="https://app.daily.dev/IGRT"><img src="https://api.daily.dev/devcards/e1a124b244974c3895ee6041dbb44cb1.png?r=xty" width="400" alt="Igor Teodoro's Dev Card"/></a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
