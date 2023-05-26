@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">       
 - 🌱  C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/igorteodoro">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=dark"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
@@ -9,7 +9,7 @@
 
 </div>
   
-<div align=right>  
+<div align="center">  
   <a href="https://app.daily.dev/IGRT"><img src="https://api.daily.dev/devcards/e1a124b244974c3895ee6041dbb44cb1.png?r=xty" width="400" alt="Igor Teodoro's Dev Card"/></a>
 </div>
 
