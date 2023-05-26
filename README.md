@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">       
 - 🌱  C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/igorteodoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=dark"/>
