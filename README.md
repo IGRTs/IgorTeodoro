@@ -8,7 +8,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=dark"/>
 </div>
   
-<div align=right>  
+<div align=center>  
   <a href="https://app.daily.dev/IGRT"><img src="https://api.daily.dev/devcards/e1a124b244974c3895ee6041dbb44cb1.png?r=xty" width="400" alt="Igor Teodoro's Dev Card"/></a>
 </div>
 
