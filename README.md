@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<div style="    
+<div width="50%" float="left" padding="20px" style="    
     width: 50%;
     float: left;
     padding: 20px;
