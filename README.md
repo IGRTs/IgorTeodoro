@@ -10,8 +10,8 @@
             border: 2px solid red;">
     <a href="https://github.com/igorteodoro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=github_dark"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=githubdark&include_all_commits=true&count_private=true"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/><br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
   
   <div style="
