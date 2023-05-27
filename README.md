@@ -3,14 +3,14 @@
 <br>
 
 <div>
-<div align="left" style="display: inline_block">
+<div align="center" style="display: inline_block">
     <a href="https://github.com/igorteodoro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=dark"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
-  <div align="right" style="display: inline_block">  
+  <div align="center" style="display: inline_block">  
     <a href="https://app.daily.dev/IGRT"><img src="https://api.daily.dev/devcards/e1a124b244974c3895ee6041dbb44cb1.png?r=xty" width="400" alt="Igor Teodoro's Dev Card"/></a>
   </div>
   </div>
