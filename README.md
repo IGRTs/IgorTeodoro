@@ -7,8 +7,8 @@
     <a href="https://github.com/igorteodoro">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=github_dark"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=github_dark"/>
-    <img height "180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=igorteodoro&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?top-langs/?username=igorteodoro&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height "180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&theme=github_dark"/>
   </div>
   
   <div align="center"
