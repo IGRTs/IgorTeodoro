@@ -2,16 +2,13 @@
 - 🌱  C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
 <br>
 
-<div>
 <div align="center">
-    <a href="https://github.com/igorteodoro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=github_dark"/><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorteodoro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=github_dark"/><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&theme=github_dark"/>
   
-  <div align="center"
+
+<div align="center"
     <a href="https://app.daily.dev/IGRT"><img src="https://api.daily.dev/devcards/e1a124b244974c3895ee6041dbb44cb1.png?r=xty" width="400" alt="Igor Teodoro's Dev Card"/></a>
-  </div>
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
