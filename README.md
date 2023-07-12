@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">       
 - 🌱 Worked with: C# e ASP.NET Framework, Microsoft SQL Server, Java e Android Studio, JavaScript, CSS, HTML and work enviroment.
 <br>
-
+<br>
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorteodoro&theme=github_dark"/><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorteodoro&layout=compact&theme=github_dark"/>
